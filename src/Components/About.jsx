@@ -23,8 +23,7 @@ const imageAltText = "purple and blue abstract background";
 /**
  * Sort description that expands on your title on the Home component.
  */
-const description =
-  "I'm a student learning Web Development and this is just for testing";
+const description = "I'm a student learning Web Development and this is just for testing";
 
 /**
  * List of some of skills or technologies you work on, are learning,
